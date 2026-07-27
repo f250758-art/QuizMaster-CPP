@@ -1,0 +1,228 @@
+Find the next number in the series: 3, 6, 12, 24, …
+1. 36
+2. 48
+3. 40
+4. 50
+Correct answer is 2
+If all Apples are Fruits and all Fruits are Edible, are all Apples definitely Edible?
+1. Yes
+2. No
+3. Cannot say
+4. Maybe
+Correct answer is 1
+Which shape comes next: square, triangle, square, triangle, …
+1. Square
+2. Triangle
+3. Circle
+4. Rectangle
+Correct answer is 1
+If DOG is coded as FQI, how is CAT coded?
+1. FDW
+2. DBU
+3. EBU
+4. DCV
+Correct answer is 2
+Find the odd one out: 11, 13, 17, 21, 19
+1. 11
+2. 13
+3. 17
+4. 21
+Correct answer is 4
+Which number is missing: 2, 5, 10, ?, 26
+1. 14
+2. 15
+3. 16
+4. 18
+Correct answer is 3
+If 4 pencils cost $2, how much do 10 pencils cost?
+1. $5
+2. $6
+3. $4
+4. $8
+Correct answer is 1
+Find the next letter in the series: B, D, G, K, …
+1. N
+2. P
+3. O
+4. M
+Correct answer is 1
+If 5 + 8 = 13, 7 + 9 = 16, then 9 + 12 = ?
+1. 20
+2. 21
+3. 22
+4. 23
+Correct answer is 3
+Find the odd one out: Lion, Tiger, Dog, Leopard
+1. Lion
+2. Tiger
+3. Dog
+4. Leopard
+Correct answer is 3
+Which number comes next: 2, 6, 12, 20, …
+1. 26
+2. 28
+3. 30
+4. 32
+Correct answer is 2
+If BOOK is coded as CPPL, what is TREE coded as?
+1. USFF
+2. UREE
+3. TSFF
+4. URFF
+Correct answer is 2
+Find the next number: 5, 10, 20, 40, …
+1. 50
+2. 60
+3. 80
+4. 100
+Correct answer is 3
+Which is the odd one out: Red, Blue, Green, Square
+1. Red
+2. Blue
+3. Green
+4. Square
+Correct answer is 4
+If 3 × 4 = 12, 5 × 6 = 30, then 7 × 8 = ?
+1. 54
+2. 56
+3. 58
+4. 60
+Correct answer is 2
+Find the missing number: 2, 5, 10, 17, ?
+1. 24
+2. 26
+3. 28
+4. 30
+Correct answer is 1
+Which letter comes next: C, F, I, L, …
+1. O
+2. M
+3. P
+4. Q
+Correct answer is 1
+If 7 + 3 = 10, 8 + 4 = 12, then 9 + 5 = ?
+1. 13
+2. 14
+3. 15
+4. 16
+Correct answer is 3
+Find the odd one out: Mango, Banana, Apple, Car
+1. Mango
+2. Banana
+3. Apple
+4. Car
+Correct answer is 4
+Which number comes next: 1, 1, 2, 3, 5, 8, …
+1. 11
+2. 12
+3. 13
+4. 14
+Correct answer is 3
+If PEN is coded as QFO, how is BOX coded?
+1. CPY
+2. CPZ
+3. CPX
+4. CQY
+Correct answer is 1
+Find the missing number: 1, 4, 9, 16, ?
+1. 20
+2. 25
+3. 24
+4. 30
+Correct answer is 2
+Which letter comes next: A, D, G, J, …
+1. K
+2. L
+3. M
+4. N
+Correct answer is 2
+If 2 + 3 = 5, 4 + 5 = 9, then 6 + 7 = ?
+1. 12
+2. 13
+3. 14
+4. 15
+Correct answer is 3
+Find the odd one out: Chair, Table, Bed, Apple
+1. Chair
+2. Table
+3. Bed
+4. Apple
+Correct answer is 4
+Which number comes next: 2, 6, 12, 20, …
+1. 28
+2. 30
+3. 32
+4. 34
+Correct answer is 1
+If 1, 4, 9, 16, 25, ?
+1. 30
+2. 35
+3. 36
+4. 40
+Correct answer is 3
+Which letter comes next: B, E, H, K, …
+1. M
+2. N
+3. O
+4. P
+Correct answer is 2
+If 3 × 2 = 6, 5 × 4 = 20, then 6 × 5 = ?
+1. 28
+2. 30
+3. 32
+4. 34
+Correct answer is 2
+Find the odd one out: Rose, Lily, Tulip, Dog
+1. Rose
+2. Lily
+3. Tulip
+4. Dog
+Correct answer is 4
+Which number comes next: 5, 10, 20, 40, …
+1. 60
+2. 70
+3. 80
+4. 90
+Correct answer is 3
+If 2 + 4 = 6, 3 + 5 = 8, then 6 + 7 = ?
+1. 12
+2. 13
+3. 14
+4. 15
+Correct answer is 3
+Find the missing number: 7, 14, 21, ?, 35
+1. 25
+2. 27
+3. 28
+4. 30
+Correct answer is 3
+Which letter comes next: M, O, Q, S, …
+1. T
+2. U
+3. V
+4. W
+Correct answer is 3
+If 1, 2, 4, 8, 16, ?
+1. 24
+2. 30
+3. 32
+4. 36
+Correct answer is 3
+Find the odd one out: Car, Bus, Train, Banana
+1. Car
+2. Bus
+3. Train
+4. Banana
+Correct answer is 4
+Which number comes next: 3, 6, 12, 24, …
+1. 36
+2. 48
+3. 42
+4. 50
+Correct answer is 2
+If PEN is coded as QFO, BOOK is coded as?
+1. CPPL
+2. CQQL
+3. CQQM
+4. CPLL
+Correct answer is 1

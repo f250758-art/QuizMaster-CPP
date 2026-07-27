@@ -1,0 +1,234 @@
+Find the next number in the series: 2, 6, 12, 20, 30, …
+1. 36
+2. 40
+3. 42
+4. 50
+Correct answer is 3
+If all Zogs are Bims and some Bims are Pogs, are all Zogs definitely Pogs?
+1. Yes
+2. No
+3. Cannot say
+4. Maybe
+Correct answer is 2
+Which shape comes next in the pattern: triangle, square, pentagon, hexagon, …
+1. Heptagon
+2. Octagon
+3. Rectangle
+4. Circle
+Correct answer is 1
+If 7 → 49, 8 → 64, 9 → ?
+1. 72
+2. 81
+3. 90
+4. 99
+Correct answer is 2
+Find the odd one out: 121, 144, 169, 196, 210
+1. 121
+2. 144
+3. 196
+4. 210
+Correct answer is 4
+Which number is missing: 1, 4, 9, 16, 25, ?, 49
+1. 30
+2. 36
+3. 40
+4. 42
+Correct answer is 2
+If 3 pencils cost $1.20, 7 pencils cost?
+1. $2.80
+2. $2.40
+3. $2.50
+4. $3.00
+Correct answer is 1
+Find the next letter in the series: A, D, I, P, ?
+1. U
+2. T
+3. W
+4. V
+Correct answer is 2
+If DOG → 26, CAT → 24, then FOX → ?
+1. 42
+2. 48
+3. 46
+4. 50
+Correct answer is 3
+Find the odd one out: 2, 3, 5, 7, 11, 15
+1. 5
+2. 7
+3. 11
+4. 15
+Correct answer is 4
+Which number comes next: 1, 8, 27, 64, …
+1. 100
+2. 125
+3. 121
+4. 144
+Correct answer is 2
+If BOOK → CPQN, how is TREE coded?
+1. USFF
+2. URFF
+3. USGG
+4. UREE
+Correct answer is 4
+Find the next number: 4, 9, 16, 25, 36, …
+1. 45
+2. 49
+3. 50
+4. 64
+Correct answer is 2
+Which is the odd one out: Mercury, Venus, Mars, Pluto
+1. Mercury
+2. Venus
+3. Pluto
+4. Mars
+Correct answer is 3
+If 5 × 4 = 20, 6 × 5 = 30, then 7 × 6 = ?
+1. 40
+2. 42
+3. 44
+4. 48
+Correct answer is 2
+Find the missing number: 2, 5, 10, 17, ?
+1. 24
+2. 26
+3. 28
+4. 30
+Correct answer is 1
+Which letter comes next: B, F, L, T, …
+1. Z
+2. V
+3. X
+4. Y
+Correct answer is 3
+If 7 + 8 = 15, 9 + 12 = 21, then 13 + 16 = ?
+1. 28
+2. 29
+3. 30
+4. 31
+Correct answer is 3
+Find the odd one out: Mango, Apple, Orange, Potato
+1. Mango
+2. Apple
+3. Orange
+4. Potato
+Correct answer is 4
+Which number comes next: 2, 3, 5, 9, 17, 33, …
+1. 49
+2. 63
+3. 65
+4. 66
+Correct answer is 3
+If PEN → QFO, BOX → ?
+1. CPY
+2. CPZ
+3. CQY
+4. CPX
+Correct answer is 2
+Find the missing number: 3, 7, 13, 21, 31, ?
+1. 40
+2. 41
+3. 43
+4. 45
+Correct answer is 3
+Which letter comes next: A, E, I, M, ?
+1. Q
+2. N
+3. O
+4. P
+Correct answer is 1
+If 1, 8, 27, 64, ?, 216
+1. 100
+2. 125
+3. 144
+4. 150
+Correct answer is 2
+Find the odd one out: Rose, Lily, Tulip, Snake
+1. Rose
+2. Lily
+3. Tulip
+4. Snake
+Correct answer is 4
+Which number comes next: 5, 10, 20, 40, 80, …
+1. 100
+2. 120
+3. 160
+4. 180
+Correct answer is 3
+If 2 + 5 = 7, 4 + 9 = 13, then 7 + 11 = ?
+1. 16
+2. 17
+3. 18
+4. 19
+Correct answer is 2
+Find the missing number: 7, 14, 28, 56, ?
+1. 108
+2. 112
+3. 110
+4. 120
+Correct answer is 2
+Which letter comes next: M, Q, U, A, …
+1. E
+2. F
+3. G
+4. H
+Correct answer is 1
+If 1, 2, 6, 24, 120, ?
+1. 600
+2. 720
+3. 720
+4. 840
+Correct answer is 2
+Find the odd one out: Car, Bus, Train, Potato
+1. Car
+2. Bus
+3. Train
+4. Potato
+Correct answer is 4
+Which number comes next: 1, 4, 9, 16, 25, 36, …
+1. 42
+2. 48
+3. 49
+4. 50
+Correct answer is 3
+If PEN → QFO, BOOK → ?
+1. CPPL
+2. CQQL
+3. CQQM
+4. CPLL
+Correct answer is 1
+Find the missing number: 2, 5, 10, 17, 26, ?
+1. 35
+2. 37
+3. 38
+4. 39
+Correct answer is 1
+Which letter comes next: C, F, J, O, …
+1. U
+2. T
+3. S
+4. R
+Correct answer is 2
+If 3 × 2 = 6, 5 × 4 = 20, then 7 × 6 = ?
+1. 40
+2. 42
+3. 44
+4. 46
+Correct answer is 2
+Find the odd one out: Apple, Mango, Orange, Table
+1. Apple
+2. Mango
+3. Orange
+4. Table
+Correct answer is 4
+Which number comes next: 3, 9, 27, 81, …
+1. 162
+2. 243
+3. 324
+4. 256
+Correct answer is 2
+If PEN is coded as QFO, BOX is coded as?
+1. CPY
+2. CPZ
+3. CQY
+4. CPX
+Correct answer is 2

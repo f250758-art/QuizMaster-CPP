@@ -1,0 +1,234 @@
+Which of the following is a type of computer memory that retains data even when the power is off?
+1. RAM
+2. ROM
+3. Cache
+4. Register
+Correct answer is 2
+Which protocol is used to transfer files over the internet?
+1. HTTP
+2. FTP
+3. SMTP
+4. HTTPS
+Correct answer is 2
+Which of the following is a high-level programming language?
+1. Assembly
+2. C++
+3. Machine Code
+4. Binary
+Correct answer is 2
+Which device is used to connect a computer to the internet via wired connection?
+1. Switch
+2. Router
+3. Ethernet Cable
+4. Modem
+Correct answer is 3
+Which type of computer virus disguises itself as a legitimate program?
+1. Worm
+2. Trojan
+3. Spyware
+4. Malware
+Correct answer is 2
+Which of the following is used to protect a computer from viruses?
+1. Browser
+2. Firewall
+3. Antivirus
+4. Operating System
+Correct answer is 3
+Which type of network covers a small area like a home or office?
+1. LAN
+2. WAN
+3. MAN
+4. VPN
+Correct answer is 1
+Which of the following is NOT an operating system?
+1. Linux
+2. Windows
+3. Python
+4. macOS
+Correct answer is 3
+Which part of the CPU performs arithmetic and logic operations?
+1. Control Unit
+2. ALU
+3. Cache
+4. Register
+Correct answer is 2
+Which of the following is a non-volatile memory?
+1. RAM
+2. ROM
+3. Cache
+4. Register
+Correct answer is 2
+Which device is used to connect multiple computers in a LAN?
+1. Hub
+2. Switch
+3. Router
+4. All of the above
+Correct answer is 4
+Which programming language is primarily used for web development on the client side?
+1. JavaScript
+2. Python
+3. C++
+4. Java
+Correct answer is 1
+Which of the following storage devices is the fastest?
+1. Hard Disk Drive
+2. SSD
+3. CD-ROM
+4. USB Flash Drive
+Correct answer is 2
+Which protocol is used to send emails?
+1. HTTP
+2. FTP
+3. SMTP
+4. POP3
+Correct answer is 3
+Which device converts digital data to analog signals for telephone lines?
+1. Hub
+2. Modem
+3. Router
+4. Switch
+Correct answer is 2
+Which memory is temporary and volatile?
+1. RAM
+2. ROM
+3. Hard Disk
+4. SSD
+Correct answer is 1
+Which programming language is used for Android app development?
+1. Java
+2. C++
+3. Python
+4. HTML
+Correct answer is 1
+Which of the following is a database management system?
+1. MySQL
+2. Photoshop
+3. Excel
+4. Word
+Correct answer is 1
+Which key combination is used to undo an action in Windows?
+1. Ctrl + Z
+2. Ctrl + Y
+3. Ctrl + C
+4. Ctrl + V
+Correct answer is 1
+Which of the following is an input/output device both?
+1. Printer
+2. Touchscreen
+3. Keyboard
+4. Mouse
+Correct answer is 2
+Which of the following is a type of malware that spreads automatically without user action?
+1. Trojan
+2. Worm
+3. Spyware
+4. Adware
+Correct answer is 2
+Which device is used to connect wireless devices in a network?
+1. Switch
+2. Hub
+3. Wireless Access Point
+4. Router
+Correct answer is 3
+Which type of software is used to perform calculations, organize data, and make charts?
+1. Word Processor
+2. Spreadsheet
+3. Database
+4. Browser
+Correct answer is 2
+Which of the following is an example of system software?
+1. Microsoft Word
+2. Linux
+3. Photoshop
+4. Chrome
+Correct answer is 2
+Which programming language is used for backend web development widely?
+1. HTML
+2. CSS
+3. PHP
+4. JavaScript
+Correct answer is 3
+Which of the following is a cloud storage service?
+1. Google Drive
+2. Notepad
+3. Windows Explorer
+4. Excel
+Correct answer is 1
+Which device connects two different networks and directs data packets?
+1. Hub
+2. Router
+3. Switch
+4. Modem
+Correct answer is 2
+Which of the following is a widely used database query language?
+1. SQL
+2. Python
+3. Java
+4. HTML
+Correct answer is 1
+Which of the following is used to protect the computer from unauthorized access?
+1. Firewall
+2. Antivirus
+3. Browser
+4. Word Processor
+Correct answer is 1
+Which protocol is used to securely browse websites?
+1. HTTP
+2. FTP
+3. HTTPS
+4. SMTP
+Correct answer is 3
+Which type of software allows users to create presentations?
+1. Spreadsheet
+2. Word Processor
+3. Presentation Software
+4. Database
+Correct answer is 3
+Which of the following is used for virtualization?
+1. VMware
+2. Photoshop
+3. Chrome
+4. Excel
+Correct answer is 1
+Which device translates domain names into IP addresses?
+1. Switch
+2. Modem
+3. DNS Server
+4. Router
+Correct answer is 3
+Which storage device uses flash memory and is portable?
+1. Hard Disk
+2. SSD
+3. USB Flash Drive
+4. CD-ROM
+Correct answer is 3
+Which of the following is a type of computer network that spans cities?
+1. LAN
+2. MAN
+3. WAN
+4. PAN
+Correct answer is 2
+Which programming language is often used for AI and machine learning?
+1. Java
+2. Python
+3. C++
+4. HTML
+Correct answer is 2
+Which of the following is a type of computer port?
+1. USB
+2. HDMI
+3. Ethernet
+4. All of the above
+Correct answer is 4
+Which memory is used to store firmware in computers?
+1. RAM
+2. ROM
+3. Cache
+4. Register
+Correct answer is 2
+Which device connects multiple devices in a network and forwards data based on MAC addresses?
+1. Hub
+2. Switch
+3. Router
+4. Modem
+Correct answer is 2

@@ -1,0 +1,7 @@
+sameer 22  32
+kamran  12 20
+hamza   18  28
+usman   4   31
+ali    10   37
+sameer 12 -10
+Hamza 11 -24

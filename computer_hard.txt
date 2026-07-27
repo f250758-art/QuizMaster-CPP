@@ -1,0 +1,228 @@
+Which of the following is a low-level programming language?
+1. C++
+2. Assembly
+3. Python
+4. Java
+Correct answer is 2
+Which of the following is used to prevent data loss during power failure?
+1. UPS
+2. SSD
+3. RAM
+4. CPU
+Correct answer is 1
+Which protocol is used for secure file transfer over the internet?
+1. FTP
+2. SFTP
+3. HTTP
+4. SMTP
+Correct answer is 2
+Which layer of the OSI model is responsible for routing packets?
+1. Physical Layer
+2. Network Layer
+3. Transport Layer
+4. Data Link Layer
+Correct answer is 2
+Which data structure uses LIFO (Last In First Out) principle?
+1. Queue
+2. Stack
+3. Array
+4. Linked List
+Correct answer is 2
+Which of the following is NOT a relational database?
+1. MySQL
+2. Oracle
+3. MongoDB
+4. SQL Server
+Correct answer is 3
+Which sorting algorithm has the best average-case time complexity?
+1. Bubble Sort
+2. Quick Sort
+3. Insertion Sort
+4. Selection Sort
+Correct answer is 2
+Which type of memory is fastest in a computer system?
+1. ROM
+2. Cache
+3. RAM
+4. Hard Disk
+Correct answer is 2
+Which protocol is used to resolve IP addresses into MAC addresses?
+1. ARP
+2. DNS
+3. FTP
+4. HTTP
+Correct answer is 1
+Which of the following is a class of computer malware that can self-replicate?
+1. Trojan
+2. Worm
+3. Adware
+4. Spyware
+Correct answer is 2
+Which topology provides the best fault tolerance in networking?
+1. Star
+2. Ring
+3. Bus
+4. Mesh
+Correct answer is 4
+Which operating system kernel is used in Linux?
+1. Monolithic
+2. Microkernel
+3. Hybrid
+4. Exokernel
+Correct answer is 1
+Which cloud computing model provides software over the internet?
+1. IaaS
+2. PaaS
+3. SaaS
+4. DaaS
+Correct answer is 3
+Which protocol is used for sending email securely?
+1. SMTP
+2. IMAP
+3. POP3
+4. SMTPS
+Correct answer is 4
+Which of the following is a non-relational (NoSQL) database?
+1. PostgreSQL
+2. MongoDB
+3. SQL Server
+4. MySQL
+Correct answer is 2
+Which algorithm is used in public-key cryptography?
+1. DES
+2. RSA
+3. AES
+4. MD5
+Correct answer is 2
+Which layer of TCP/IP model is responsible for end-to-end communication?
+1. Network Layer
+2. Transport Layer
+3. Application Layer
+4. Data Link Layer
+Correct answer is 2
+Which of the following is a concurrency control mechanism in databases?
+1. Locking
+2. Indexing
+3. Backup
+4. Normalization
+Correct answer is 1
+Which is a memory management technique in operating systems?
+1. Paging
+2. Routing
+3. Switching
+4. Sorting
+Correct answer is 1
+Which network device operates at the Data Link Layer?
+1. Router
+2. Switch
+3. Hub
+4. Repeater
+Correct answer is 2
+Which RAID level provides both redundancy and striping?
+1. RAID 0
+2. RAID 1
+3. RAID 5
+4. RAID 10
+Correct answer is 3
+Which algorithm is used for shortest path finding in networks?
+1. Dijkstra’s Algorithm
+2. Kruskal’s Algorithm
+3. Prim’s Algorithm
+4. Bubble Sort
+Correct answer is 1
+Which programming paradigm focuses on objects and their interactions?
+1. Procedural
+2. Functional
+3. Object-Oriented
+4. Declarative
+Correct answer is 3
+Which database normalization form eliminates transitive dependencies?
+1. 1NF
+2. 2NF
+3. 3NF
+4. BCNF
+Correct answer is 3
+Which type of network attack involves intercepting communication between two parties?
+1. Phishing
+2. Man-in-the-middle
+3. Denial-of-service
+4. Spoofing
+Correct answer is 2
+Which protocol is used to resolve domain names into IP addresses?
+1. ARP
+2. DNS
+3. FTP
+4. HTTP
+Correct answer is 2
+Which of the following is an example of a symmetric encryption algorithm?
+1. RSA
+2. AES
+3. ECC
+4. DSA
+Correct answer is 2
+Which memory allocation method divides memory into fixed-size blocks?
+1. Paging
+2. Segmentation
+3. Slab Allocation
+4. Dynamic Partitioning
+Correct answer is 3
+Which type of backup captures only files that have changed since the last backup?
+1. Full Backup
+2. Incremental Backup
+3. Differential Backup
+4. Mirror Backup
+Correct answer is 2
+Which type of database joins combines all records from two tables?
+1. Inner Join
+2. Left Join
+3. Right Join
+4. Full Outer Join
+Correct answer is 4
+Which of the following is a secure network protocol for remote login?
+1. Telnet
+2. SSH
+3. FTP
+4. HTTP
+Correct answer is 2
+Which scheduling algorithm gives each process equal CPU time in rotation?
+1. FCFS
+2. SJF
+3. Round Robin
+4. Priority Scheduling
+Correct answer is 3
+Which database transaction property ensures all operations succeed or fail together?
+1. Atomicity
+2. Consistency
+3. Isolation
+4. Durability
+Correct answer is 1
+Which type of memory is used in GPU for graphics processing?
+1. SRAM
+2. GDDR
+3. DRAM
+4. ROM
+Correct answer is 2
+Which algorithm is commonly used for data compression?
+1. Huffman Coding
+2. Dijkstra’s Algorithm
+3. RSA
+4. Bubble Sort
+Correct answer is 1
+Which file system is used in most Linux distributions?
+1. FAT32
+2. NTFS
+3. ext4
+4. HFS+
+Correct answer is 3
+Which database index type uses a balanced tree structure?
+1. Hash Index
+2. B-Tree Index
+3. Bitmap Index
+4. Full-Text Index
+Correct answer is 2
+Which type of cache is closest to the CPU for fastest access?
+1. L1 Cache
+2. L2 Cache
+3. L3 Cache
+4. Main Memory
+Correct answer is 1
